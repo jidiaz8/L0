@@ -1,0 +1,10 @@
+C:\Users\Javier Diaz\L0>doskey/history
+cd L0
+git pull https://github.com/jidiaz8/L0
+git add *
+git commit -m "Ya habia hecho esto solo que cerre el cdm"
+git push
+git pull https://github.com/jidiaz8/L0
+doskey/history
+
+C:\Users\Javier Diaz\L0>
